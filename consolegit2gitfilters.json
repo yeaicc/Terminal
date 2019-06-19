@@ -11,7 +11,12 @@
     "/packages/",
     "/ipch/",
     "/dep/",
-    "/.vs/"
+    "/.vs/",
+    "/build/",
+    "/src/cascadia/",
+    "/.nuget/",
+    "/.github/",
+    "/samples/"
   ],
   "SuffixFilters": [
     ".dbb",
